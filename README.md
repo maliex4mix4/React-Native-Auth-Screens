@@ -1,20 +1,20 @@
-# Reanimated example
+# Auth Screens Animated
 
 <p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
+  <img alt="Login" longdesc="Supports Login" src="./documents/login.png" />
+  <img alt="Login" longdesc="Supports Login" src="./documents/signup.png" />
 </p>
 
 ## 🚀 How to use
 
-> `npx create-react-native-app my-app -t with-reanimated`
-
+- Clone `git clone https://github.com/malikdiyaolu/React-Native-Auth-Screens.git`
 - Run `yarn` or `npm install`
 - Run `yarn start` or `npm run start` to try it out.
 
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+## Credit
+
+- https://youtu.be/M8u_w6_o584?si=dd3PqfuzR4nY9fA7
